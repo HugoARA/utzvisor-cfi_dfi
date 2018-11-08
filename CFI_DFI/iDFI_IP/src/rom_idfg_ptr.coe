@@ -1,0 +1,10 @@
+; depth=256 and width=16. - static table ( 7 elements) 
+memory_initialization_radix=16;
+memory_initialization_vector=
+0000,
+0202,
+0303,
+0404,
+0102,
+0302,
+0601;

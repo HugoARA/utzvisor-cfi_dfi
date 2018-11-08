@@ -1,0 +1,18 @@
+; depth=,256 and width=8. - successor table ( 15 elements) 
+memory_initialization_radix=16;
+memory_initialization_vector=
+00,
+01,
+02,
+04,
+08,
+09,
+0a,
+02,
+05,
+06,
+08,
+0b,
+03,
+01,
+04;

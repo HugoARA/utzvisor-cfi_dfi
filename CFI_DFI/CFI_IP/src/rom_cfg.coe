@@ -1,0 +1,18 @@
+; depth=256 and width=80. - CFG table ( 15 elements) 
+memory_initialization_radix=16;
+memory_initialization_vector=
+00000000000000000000,
+a1aaaaaaa1aaaaba0105,
+a2aaaaaaa2aaaaba0204,
+a3aaaaaaa3aaaaba0303,
+a4aaaaaaa4aaaaba0402,
+a5aaaaaaa5aaaaba0301,
+a6aaaaaaa6aaaaba0205,
+a7aaaaaaa7aaaaba0104,
+a8aaaaaaa8aaaaba0203,
+a9aaaaaaa9aaaaba0302,
+aaaaaaaaaaaaaaba0401,
+abaaaaaaabaaaaba0502,
+acaaaaaaacaaaaba0403,
+adaaaaaaadaaaaba0304,
+aeaaaaaaaeaaaaba0203;
